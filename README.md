@@ -12,4 +12,4 @@ I also used XGBoost and spent some time trying to optimize it, given that it gav
 
 Hyperparameters were tuned using GrisSearchCV and then, to some extent, by trial and error.
 
-While this project was done as part of a school project. I believe it indicates the quality of work that I’m capable of in real-world applications. I was the top student in my cohort with a final course weighted average of 99.39%.
+While this project was done as part of a school project. I believe it indicates the quality of work that I’m capable of in real-world applications. I was the top student in my cohort with a final course weighted average of 99.39%. Finally, at the time I didn't have any concept of "data leakage", so I'm just using a train and test set. Nowdays I would split the data into train, validation and test.
